@@ -8,13 +8,8 @@ Fine-Tuned Llama 3.2 Persian Large Language Model LLM / Persian Llama 3.2
 
  <img src="AVA3.2.png" height="600" width="940" >
 
-### This Repository Contains Documents for Fine-Tuned Llama 3  Persian Large Language Model(LLM) Called AVA-Llama-3
+### This Repository Contains Documents for Fine-Tuned Llama 3.2  Persian Large Language Model(LLM) Called AVA-Llama-3.2
 (Still in progress)
-
--------------------------------------------------
-### Dataset used:
-
-To Be Done
 
 -------------------------------------------------
 
@@ -1248,12 +1243,12 @@ Released Sun 15, 2024
 | Contributors      | Email               | LinkedIn                                 |
 |-------------------|---------------------|------------------------------------------|
 | Saba Ghasemzadeh | sabaghzd@gmail.com | [LinkedIn](https://www.linkedin.com/in/saba-ghasemzadehh/) |
-| Mehdi Hosseini Moghadam          | m.h.moghadam1996@gmail.com | [LinkedIn](https://www.linkedin.com/in/john-doe/)          |
+| Mehdi Hosseini Moghadam          | m.h.moghadam1996@gmail.com | [LinkedIn]([https://www.linkedin.com/in/john-doe/](https://www.linkedin.com/in/mehdi-hosseini-moghadam-384912198/))          |
 
 
 
 
-Attention ⚠️: The user is responsible for using AVA-Llama-3 / Persian Llama 3
+Attention ⚠️: The user is responsible for using AVA-Llama-3.2 / Persian Llama 3.2
 
 Any misuse of the model (of any kind) is the responsibility of the user and not the creator
 
