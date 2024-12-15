@@ -197,6 +197,11 @@ You can also use colab link in the jupyter file
     <td> Answer </td>
     <td> Rating  </td>
   </tr>
+<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
+  </tr>
     <tr>
     <td> AVA-Llama-3 </td>
     <td> 
