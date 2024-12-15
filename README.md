@@ -1,12 +1,12 @@
 
-# AVA-Llama-3
-Fine-Tuned Llama 3 Persian Large Language Model LLM / Persian Llama 3
+# AVA-Llama-3.2 1&3 B
+Fine-Tuned Llama 3.2 Persian Large Language Model LLM / Persian Llama 3.2
 
 
-# AVA-Llama-3 / Persian Llama-3 / Persian Llama 3
+# AVA-Llama-3.2 / Persian Llama-3.2 / Persian Llama 3.2
 
 
- <img src="Llama 3.png" height="600" width="940" >
+ <img src="AVA3.2.png" height="600" width="940" >
 
 ### This Repository Contains Documents for Fine-Tuned Llama 3  Persian Large Language Model(LLM) Called AVA-Llama-3
 (Still in progress)
