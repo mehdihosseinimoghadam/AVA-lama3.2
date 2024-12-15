@@ -63,7 +63,7 @@ You can also use colab link in the jupyter file
  <img src="AVA2.jpg" height="600" width="940" >
 
 
-[AVA-Llama-3](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Llama-3-V2) vs [AVA-V4](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Mistral-7B-V4) vs [AVA-V2](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Mistral-7B-V2) vs [Maral](https://huggingface.co/MaralGPT/Maral-7B-alpha-1) vs  [Llama](https://huggingface.co/hdeldar/llama-2-7b-persian-text-1k)
+[AVA-Llama-3.2](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Llama-3-V2) vs [AVA-V4](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Mistral-7B-V4) vs [AVA-V2](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Mistral-7B-V2) vs [Maral](https://huggingface.co/MaralGPT/Maral-7B-alpha-1) vs  [Llama](https://huggingface.co/hdeldar/llama-2-7b-persian-text-1k)
 
 
 ### Q1: 
