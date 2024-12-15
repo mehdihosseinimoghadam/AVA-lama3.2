@@ -253,6 +253,11 @@ You can also use colab link in the jupyter file
     <td> Answer </td>
     <td> Rating  </td>
   </tr>
+<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
+</tr>
   <tr>
     <td> AVA-Llama-3 </td>
     <td> منظور شما این است که توپ در داخل لیوان برعکس قرار دارد و سپس لیوان را برداشته و داخل مایکروویو قرار می دهید. در این صورت، توپ در داخل مایکروویو قرار دارد و برعکس لیوان نیست.
@@ -307,6 +312,11 @@ You can also use colab link in the jupyter file
     <td> Answer </td>
     <td> Rating  </td>
   </tr>
+<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
+</tr>
     <td> AVA-Llama-3 </td>
     <td> 
 
@@ -430,7 +440,13 @@ You can also use colab link in the jupyter file
     <td> Model </td>
     <td> Answer </td>
     <td> Rating  </td>
-  </tr>	   <tr>
+  </tr>	 
+<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
+</tr>
+	<tr>
     <td> AVA-Llama-3 </td>
     <td>
 	    
@@ -533,6 +549,11 @@ Sincerely,
     <td> Answer </td>
     <td> Rating  </td>
   </tr>
+	<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
+  </tr>
    <tr>
     <td> AVA-Llama-3 </td>
     <td> رییس جمهور آمریکا در سال 1996، بیل کلینتون بود </td>
@@ -581,6 +602,11 @@ Sincerely,
     <td> Model </td>
     <td> Answer </td>
     <td> Rating  </td>
+  </tr>
+	<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
   </tr>
 <tr>
     <td> AVA-Llama-3 </td>
@@ -649,6 +675,11 @@ Sincerely,
     <td> Model </td>
     <td> Answer </td>
     <td> Rating  </td>
+  </tr>
+	<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
   </tr>
  <tr>
     <td> AVA-Llama-3 </td>
@@ -720,6 +751,11 @@ Sincerely,
     <td> Answer </td>
     <td> Rating  </td>
   </tr> 
+	<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
+  </tr>
  <tr>
     <td> AVA-Llama-3 </td>
     <td> 
@@ -845,6 +881,11 @@ with open("people.json", "w") as f:
     <td> Answer </td>
     <td> Rating  </td>
   </tr>
+<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
+  </tr>
  <tr>
     <td> AVA-Llama-3 </td>
     <td> 
@@ -926,7 +967,11 @@ for i in range(1, 11):
     <td> Answer </td>
     <td> Rating  </td>
   </tr>
-
+<tr>
+    <td> AVA-Llama-3 </td>
+    <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
+    <td> </td>
+  </tr>
    <tr>
     <td> AVA-Llama-3 </td>
     <td> 
