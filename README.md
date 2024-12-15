@@ -140,7 +140,7 @@ You can also use colab link in the jupyter file
     <td> Rating  </td>
       </tr>
 <tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
 </tr>
@@ -198,7 +198,7 @@ You can also use colab link in the jupyter file
     <td> Rating  </td>
   </tr>
 <tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
   </tr>
@@ -254,7 +254,7 @@ You can also use colab link in the jupyter file
     <td> Rating  </td>
   </tr>
 <tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
 </tr>
@@ -313,7 +313,7 @@ You can also use colab link in the jupyter file
     <td> Rating  </td>
   </tr>
 <tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
 </tr>
@@ -442,7 +442,7 @@ You can also use colab link in the jupyter file
     <td> Rating  </td>
   </tr>	 
 <tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
 </tr>
@@ -550,7 +550,7 @@ Sincerely,
     <td> Rating  </td>
   </tr>
 	<tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
   </tr>
@@ -604,7 +604,7 @@ Sincerely,
     <td> Rating  </td>
   </tr>
 	<tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
   </tr>
@@ -677,7 +677,7 @@ Sincerely,
     <td> Rating  </td>
   </tr>
 	<tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
   </tr>
@@ -732,7 +732,7 @@ Sincerely,
 
 
 
-### Q9: 
+### Q10: 
 ```
 یک فایل json حاوی این اطلاعات ایجاد کنید: bob، jon، mary و rich
 
@@ -752,7 +752,7 @@ Sincerely,
     <td> Rating  </td>
   </tr> 
 	<tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
   </tr>
@@ -863,7 +863,7 @@ with open("people.json", "w") as f:
 
 
 
-### Q9: 
+### Q11: 
 ```
 یک اسکریپت پایتون برای چاپ 1 تا 10 بنویسید
 
@@ -882,7 +882,7 @@ with open("people.json", "w") as f:
     <td> Rating  </td>
   </tr>
 <tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
   </tr>
@@ -946,7 +946,7 @@ for i in range(1, 11):
 
 
 
-### Q9: 
+### Q12: 
 ```
 یک تابع node js برای دریافت رشته و تقسیم آن بر اساس فاصله بنویسید
 
@@ -968,7 +968,7 @@ for i in range(1, 11):
     <td> Rating  </td>
   </tr>
 <tr>
-    <td> AVA-Llama-3 </td>
+    <td> AVA-Llama-3.2 1B </td>
     <td> ایلان ریو ماسک در پرتوریا، آفریقای جنوبی به دنیا امده است </td>
     <td> </td>
   </tr>
