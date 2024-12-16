@@ -13,8 +13,11 @@ Fine-Tuned Llama 3.2 Persian Large Language Model LLM / Persian Llama 3.2
 
 -------------------------------------------------
 
+## HuggingFace
 
-
+#### [AVA-Llama3.2 1B](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Llama3.2-1B)
+#### [AVA-Llama3.2 3B](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Llama3.2-3B)
+#### [GitHub](https://github.com/mehdihosseinimoghadam/AVA-lama3.2)
 
 ### Q1: 
 ```
