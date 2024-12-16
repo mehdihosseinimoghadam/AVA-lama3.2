@@ -15,51 +15,6 @@ Fine-Tuned Llama 3.2 Persian Large Language Model LLM / Persian Llama 3.2
 
 
 
-### Usage:
-
-All models are hosted in HuggingFace, and here is the code for inference:
-
-```py
-from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig
-import torch
-
-model_name_or_id = "MehdiHosseiniMoghadam/AVA-Llama-3-V2"
-model = AutoModelForCausalLM.from_pretrained(model_name_or_id, torch_dtype=torch.float16, device_map="auto", low_cpu_mem_usage=True, load_in_8bit=True)
-tokenizer = AutoTokenizer.from_pretrained(model_name_or_id)
-
-prompt = ''
-
-prompt = f"### Human:{prompt}\n### Assistant:"
-
-
-inputs = tokenizer(prompt, return_tensors="pt").to("cuda")
-
-generation_config = GenerationConfig(
-    do_sample=True,
-    top_k=1,
-    temperature=0.99,
-    max_new_tokens=90,
-    pad_token_id=tokenizer.eos_token_id
-)
-
-
-outputs = model.generate(**inputs, generation_config=generation_config)
-print(tokenizer.decode(outputs[0], skip_special_tokens=True))
-
-
-```
-
-You can also use colab link in the jupyter file
-
--------------------------------------------------
-
-## QA Comparision to other models:
-
- <img src="AVA2.jpg" height="600" width="940" >
-
-
-[AVA-Llama-3.2](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Llama-3-V2) vs [AVA-V4](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Mistral-7B-V4) vs [AVA-V2](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Mistral-7B-V2) vs [Maral](https://huggingface.co/MaralGPT/Maral-7B-alpha-1) vs  [Llama](https://huggingface.co/hdeldar/llama-2-7b-persian-text-1k)
-
 
 ### Q1: 
 ```
